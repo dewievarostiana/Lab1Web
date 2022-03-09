@@ -16,6 +16,7 @@ Langkah-langkah Praktikum
 Persiapan membuka VSCode dan Browser.
 
 ![](images/1.jpg)
+
 **Gambar Tampilan VSCode**
 
 Kemudian buat file baru dengan nama lab1_tag_dasar.html dan tambahkan tag dasar dokumen HTML.
@@ -29,6 +30,7 @@ Kemudian buat file baru dengan nama lab1_tag_dasar.html dan tambahkan tag dasar 
 
 Kemudian selanjutnya, buka file tersebut pada web browser misalnya Mozilla Firefox.
 ![](images/3.jpg)
+
 **Gambar Web Browser Chrome**
 
 
@@ -38,9 +40,11 @@ Selanjutnya buatlah beberapa paragraf sederhana sebagai berikut
 
 Selanjutnya simpan kembali perubahannya, dan lakukan refresh pada web browser, lihat hasilnya
 ![](images/4.jpg)
+
 **Gambar Tampilan Paragraf pada Browser**
 
 Kemudian atur atribut paragraf seperti berikut, dan amati perubahanya.
+
 ![](images/2menambah%20atribut.png)
 
 Simpan kembali dan amati perubahannya dengan melakukan refresh pada web browser. 
@@ -51,16 +55,21 @@ perbedaan lainnya.
 Seperti sudah dijelaskan pada materi bahwa judul memiliki 6 level yaitu mulai h1 sampai h6. 
 Kemudian tambahkan judul h1 sebelum paragraf pertama dan tambahkan sub judul h2 sebelum 
 paragraf kedua.
+
 ![](images/3menambah%20judul.png)
 
 Simpan perubahannya dan lihat hasilnya dengan melakukan refresh pada browser
+
 ![](images/5.jpg)
+
 **Gambar Tampilan Heading 1 dan Heading 2**
 
 3. Memformat teks
 Lakukan pemformatan teks yang ada pada paragraf yang sudah ada sebelumnya, mengacu kepada 
 penjelasan materi pemformatan teks, sehingga tampilannya seperti berikut.
+
 ![](images/6.jpg)
+
 **Gambar Pemformatan Teks**
 
 Lakukan eksperimen lainnya dengan tag-tag pemformatan teks yang ada.
@@ -80,6 +89,7 @@ sebelumnya.
 Simpan perubahannya, kemudian refresh browser.
 
 ![](images/7.jpg)
+
 **Gambar Menampilkan Gambar**.
 
 Gambar akan ditampilkan apa adanya sesuai dengan ukuran aslinya. Untuk mengatur ukuran 
@@ -92,6 +102,7 @@ Tambahkan hyperlink pada dokumen sebelum heading 1 seperti berikut.
 ![](images/7menambah%20linknavigasi.png)
 
 ![](images/8.jpg)
+
 **Gambar Tampilan Hyperlink**
 
 
